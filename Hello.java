@@ -9,5 +9,5 @@ public class Hello{
 			
 		}
 	}
-	
+	System.out.println("Hola mundo ...salida ");	
 }
